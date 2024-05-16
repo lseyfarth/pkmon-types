@@ -1,0 +1,125 @@
+{
+    "types":
+    [
+        {
+            "id": 1,
+            "name": "normal",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/normal.svg",
+            "color": "#A8A77A"
+        },
+        {
+            "id": 2,
+            "name": "fighting",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/fighting.svg",
+            "color": "#C22E28"
+        },
+        {
+            "id": 3,
+            "name": "flying",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/flying.svg",
+            "color": "#A98FF3"
+        },
+        {
+            "id": 4,
+            "name": "poison",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/poison.svg",
+            "color": "#A33EA1"
+        },
+        {
+            "id": 5,
+            "name": "ground",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/ground.svg",
+            "color": "#E2BF65"
+        },
+        {
+            "id": 6,
+            "name": "rock",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/rock.svg",
+            "color": "#B6A136"
+        },
+        {
+            "id": 7,
+            "name": "bug",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/bug.svg",
+            "color": "#A6B91A"
+        },
+        {
+            "id": 8,
+            "name": "ghost",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/ghost.svg",
+            "color": "#735797"
+        },
+        {
+            "id": 9,
+            "name": "steel",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/steel.svg",
+            "color": "#B7B7CE"
+        },
+        {
+            "id": 10,
+            "name": "fire",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/fire.svg",
+            "color": "#EE8130"
+        },
+        {
+            "id": 11,
+            "name": "water",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/water.svg",
+            "color": "#6390F0"
+        },
+        {
+            "id": 12,
+            "name": "grass",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/grass.svg",
+            "color": "#7AC74C"
+        },
+        {
+            "id": 13,
+            "name": "electric",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/electric.svg",
+            "color": "#F7D02C"
+        },
+        {
+            "id": 14,
+            "name": "psychic",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/psychic.svg",
+            "color": "#F95587"
+        },
+        {
+            "id": 15,
+            "name": "ice",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/ice.svg",
+            "color": "#96D9D6"
+        },
+        {
+            "id": 16,
+            "name": "dragon",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/dragon.svg",
+            "color": "#6F35FC"
+        },
+        {
+            "id": 17,
+            "name": "dark",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/dark.svg",
+            "color": "#705746"
+        },
+        {
+            "id": 18,
+            "name": "fairy",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/fairy.svg",
+            "color": "#D685AD"
+        },
+        {
+            "id": 19,
+            "name": "stellar",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/stellar.svg",
+            "color": "#nnn"
+        },
+        {
+            "id": 20,
+            "name": "unknown",
+            "image": "https://raw.githubusercontent.com/lseyfarth/pkmon-types/main/icons/unknown.svg",
+            "color": "#nnn"
+        }
+    ]
+}
